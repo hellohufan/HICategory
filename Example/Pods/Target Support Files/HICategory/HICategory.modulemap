@@ -1,0 +1,6 @@
+framework module HICategory {
+  umbrella header "HICategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

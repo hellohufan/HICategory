@@ -1,0 +1,6 @@
+framework module Pods_HICategory_Example {
+  umbrella header "Pods-HICategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

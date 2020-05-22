@@ -10,6 +10,11 @@
 #endif
 #endif
 
+#import "NSDate+Utilities.h"
+#import "NSString+Rect.h"
+#import "UIImage+Color.h"
+#import "UITextView+Placeholder.h"
+#import "UIView+LoadFromNib.h"
 
 FOUNDATION_EXPORT double HICategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char HICategoryVersionString[];

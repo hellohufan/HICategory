@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "NSData+Base64.h"
+#import "NSData+MD5.h"
 #import "NSDate+Utilities.h"
 #import "NSString+Rect.h"
 #import "UIImage+Color.h"

@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HICategory (0.1.0)
+  - HICategory (0.1.1)
   - Kiwi (3.0.0)
 
 DEPENDENCIES:
@@ -23,7 +23,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HICategory: e15596d2228b713c11573d09ab246065e1a5187c
+  HICategory: 78f9930e88461d9bb100ee36e6afc4ef95a5bc3b
   Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
 
 PODFILE CHECKSUM: 590b2c34e19711a7629394b47554c87aa45dff63

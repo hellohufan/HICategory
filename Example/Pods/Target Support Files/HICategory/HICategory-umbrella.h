@@ -13,6 +13,7 @@
 #import "NSData+Base64.h"
 #import "NSData+MD5.h"
 #import "NSDate+Utilities.h"
+#import "NSObject+Block.h"
 #import "NSString+Rect.h"
 #import "UIImage+Color.h"
 #import "UITextView+Placeholder.h"
